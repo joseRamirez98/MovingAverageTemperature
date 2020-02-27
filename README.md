@@ -13,26 +13,9 @@ The prerequisite for this program is the "NorCal-1880-2018" csv file, which is i
 ### Example Output
 Given a window period of 60, the output of the moving_average csv file should be the following:
 
-Year	Value
-1940	-0.2331
-1941	-0.2169
-1942	-0.215
-1943	-0.2228
-1944	-0.2107
-1945	-0.1796
-1946	-0.1667
-1947	-0.1582
-1948	-0.1585
-1949	-0.1492
-1950	-0.1711
-1951	-0.1688
-1952	-0.149
-1953	-0.1556
-1954	-0.1548
-1955	-0.158
-1956	-0.142
-1957	-0.1101
-1958	-0.1017
+Year:    1940     1941    1942  ...   1956    1957     1958
+
+Value: -0.2331  -0.2169  -0.215 ... -0.142  -0.1101  -0.1017
 
 ## Running the tests
 
