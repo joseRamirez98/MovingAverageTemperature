@@ -17,4 +17,4 @@ Python 3.
 
 Tested with Python 3.7 on Mac OS X 10.14
 
-Requires external packages, so download a distribution of Anaconda to install necessary packages. Install the version Python 3.7 <a href="https://www.anaconda.com/distribution/">Click Here</a>
+Requires external packages, so download a distribution of Anaconda to install necessary packages. Install the version <a href="https://www.anaconda.com/distribution/">Python 3.7</a>
