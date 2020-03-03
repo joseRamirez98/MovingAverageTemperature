@@ -10,9 +10,7 @@ First, prompt the user to input a window period for which they would like to cal
 
 The prerequisite for this program is the "NorCal-1880-2018" csv file, which is included in the repository.
 
-### Example Output
-Given a window period of 60, the output of the moving_average csv file should be the following:
+### Unit Test
+Given a input window period of 60, the output of the moving_average csv file mirror the following:
 
-Year:    1940     1941    1942  ...   1956    1957     1958
-
-Value: -0.2331  -0.2169  -0.215 ... -0.142  -0.1101  -0.1017
+<a href="moving_ave.csv"></a>
