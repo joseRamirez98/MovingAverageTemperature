@@ -14,6 +14,6 @@ Given a input window period of 60, the output of the moving_average csv file mir
 ### Requirements
 Python 3.
 
-Tested with Python 3.4.1 on Mac OS X 10.9.3.
+Tested with Python 3.4.1 on Mac OS X 10.14
 
 Doesn't require any external packages, so it should be platform-agnostic.
