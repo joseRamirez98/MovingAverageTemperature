@@ -12,8 +12,9 @@ Given a input window period of 60, the output of the moving_average csv file mir
 <a href="https://github.com/joseRamirez98/MovingAverageTemperature/blob/master/moving_ave.csv">Click here to see the output of the csv file</a>
 
 ### Requirements
+
 Python 3.
 
-Tested with Python 3.4.1 on Mac OS X 10.14
+Tested with Python 3.7 on Mac OS X 10.14
 
-Doesn't require any external packages, so it should be platform-agnostic.
+Requires external packages, so download a distribution of Anaconda to install necessary packages. Install the version Python 3.7 <a href="https://www.anaconda.com/distribution/">Click Here</a>
