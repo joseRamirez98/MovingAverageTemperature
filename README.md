@@ -13,4 +13,4 @@ The prerequisite for this program is the "NorCal-1880-2018" csv file, which is i
 ### Unit Test
 Given a input window period of 60, the output of the moving_average csv file mirror the following:
 
-<a href="moving_ave.csv"></a>
+<a href="https://github.com/joseRamirez98/MovingAverageTemperature/blob/master/moving_ave.csv">Click here to see the output of the csv file</a>
